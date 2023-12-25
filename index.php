@@ -9,6 +9,7 @@
 <body>
     <?php
         include "second.php";
+    ?>
         <header class="header">
 		<div class="All_header_menu">
 			<div class="logo">
@@ -82,5 +83,5 @@
 		</footer>
 	</div>
 	<script src="js/web5.js"> </script>
-     ?>
+     
 </body>
